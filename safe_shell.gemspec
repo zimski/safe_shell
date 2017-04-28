@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "A basic utility to test shell script using ruby"
   # spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "https://github.com/fasterize/safe_shell"
+  spec.homepage      = "https://github.com/zimski/safe_shell"
   spec.license       = "MIT"
 
 
